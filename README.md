@@ -21,8 +21,6 @@ You are welcome to my page :3.
   - A Discord-inspired mention system for Minecraft servers with rich chat interactions.
 - 🌾 **FarmQuest**
   - Immersive farming quests with localization support with objective system.
-- ⚡ **Lightning Rush**
-  - A fast-paced PvP minigame where players run from lightning, avoid traps, and outlast the storm. Custom traps, visual effects, and a dynamic arena!
 - 🛠️ **DAPI**
   - A lightweight, flexible plugin API and utilities library to simplify my plugin development.
 
